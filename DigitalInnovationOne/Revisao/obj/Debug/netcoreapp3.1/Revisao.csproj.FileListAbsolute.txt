@@ -1,0 +1,13 @@
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DigitalInnovationOne\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

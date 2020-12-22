@@ -1,0 +1,13 @@
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.exe
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.deps.json
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.runtimeconfig.json
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.runtimeconfig.dev.json
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.dll
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\bin\Debug\netcoreapp3.1\DotNetDebugging.pdb
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.csprojAssemblyReference.cache
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.AssemblyInfo.cs
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.dll
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.pdb
+C:\Users\marcelo.d.pena.vila\Documents\GitHub\DotNetDebugging\obj\Debug\netcoreapp3.1\DotNetDebugging.genruntimeconfig.cache
