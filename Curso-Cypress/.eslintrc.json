@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    "@cypress/dev"
+  ],
+  "extends": [
+    "plugin:@cypress/dev/general"
+  ],
+  "rules": {
+    "prefer-spread": "off",
+    "prefer-rest-params": "off"
+  },
+  "settings": {
+    "react": {
+      "version": "16.8"
+    }
+  }
+}
